@@ -8,7 +8,6 @@
 - [Accuracy Comparison](#accuracy-comparison)
 
 ## Libraries Used
-- Pandas
 - Tensorflow 2.x
 - Numpy
 - Plotly
