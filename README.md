@@ -27,6 +27,6 @@ This data was initially published on [https://datahack.analyticsvidhya.com](http
 
 ## Accuracy Comparison
 
-![Accuracy Comparison](https://github.com/saatweek/Coronavirus_tweets_NLP_Text_Classification/blob/master/newplot.png)
+![Accuracy Comparison](https://github.com/saatweek/Intel-Image-Classification/blob/main/training%20accuracy.png)
 
-![Accuracy on Validation Data](https://github.com/saatweek/Coronavirus_tweets_NLP_Text_Classification/blob/master/comparison%20on%20validation%20data.png)
+![Accuracy on Validation Data](https://github.com/saatweek/Intel-Image-Classification/blob/main/validation%20accuracy.png)
