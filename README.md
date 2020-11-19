@@ -20,8 +20,8 @@ This data was initially published on [https://datahack.analyticsvidhya.com](http
 
 ## Approaches Used 
 
-- ***Convolutions***
-- ***Inception Network***
+- ***[Convolutions](https://github.com/saatweek/Intel-Image-Classification/blob/main/Intel_Image_Classification_(Using_Convolutions).ipynb)***
+- ***[Inception Network](https://github.com/saatweek/Intel-Image-Classification/blob/main/Intel_Image_Classification_(using_Transfer_Learning).ipynb)***
 
 
 ## Accuracy Comparison
